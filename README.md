@@ -66,3 +66,10 @@ Olist_Ecommerce_SQL_Project/
 
 
 
+## SQL Analysis Screenshot
+
+### Monthly Order Cancellation Analysis
+
+![Monthly Cancellation Analysis](monthly_cancellation_analysis.png)
+
+**Key insight:** August 2018 recorded the highest monthly cancellation rate (1.29%) among months with at least 500 orders, with 84 cancellations out of 6,512 orders.
