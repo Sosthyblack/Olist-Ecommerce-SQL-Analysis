@@ -6,6 +6,28 @@ This project uses MySQL to analyze the Brazilian Olist E-Commerce dataset, focus
 
 The goal is to answer real-world business questions using SQL and translate the findings into meaningful business insights and recommendations.
 
+## Dataset
+
+**Dataset Name:** Brazilian E-Commerce Public Dataset by Olist
+
+**Dataset Publisher:** Olist
+
+**Dataset Source:** Kaggle
+
+**Dataset Link:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+This dataset contains Brazilian e-commerce transaction information, including customer details, orders, order items, payments, products and delivery information.
+
+For this project, I used MySQL to analyse the Olist e-commerce data, focusing on:
+
+- Customer and order information.
+- Order status and cancellation rates.
+- Monthly sales and cancellation trends.
+- Average order value and business insights.
+
+The analysis covered 99,441 orders and identified 625 cancelled orders, representing an overall cancellation rate of approximately 0.63%.
+
+The SQL queries used for the analysis are included in this GitHub repository.
 ## Tools Used
 
 - MySQL
